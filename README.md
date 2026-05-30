@@ -20,7 +20,8 @@ Technologies Used
 - Matplotlib
 - Random Module
 
-How It Works
+How It Works  
+
 The program selects random questions from a dictionary, takes user input, compares answers using keyword matching logic, and calculates the final score. A bar chart is generated to visualize performance.
 
 How to Run

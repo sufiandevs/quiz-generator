@@ -24,6 +24,8 @@ How It Works
 
 The program selects random questions from a dictionary, takes user input, compares answers using keyword matching logic, and calculates the final score. A bar chart is generated to visualize performance.
 
-How to Run
-bash
+How to Run  
+
+bash  
+
 python main.py
